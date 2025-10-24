@@ -28,6 +28,12 @@ I love building practical projects, exploring new technologies, and have problem
 ### 3. EncryptionToolV3 (Planned)
 - Advanced version with multiple encryption algorithms
 
+### 4. Texture adventure Game 
+- Game builded using python coding.
+
+### 5. Bank GrapQL API
+- Its the abnd and branch management system.
+
 ---
 
 ## 📈 GitHub Stats
