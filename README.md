@@ -47,5 +47,5 @@ I love building practical projects, exploring new technologies, and have problem
 ---
 
 ## ⚡ Fun Fact
-I enjoy combining **programming, AI, and data science** to solve real-world problems and bring ideas to life.
+I enjoy combining **Data science, AI, CLoud ,Cybersecurity** to solve real-world problems and bring ideas to life.
 
