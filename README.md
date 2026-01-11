@@ -31,7 +31,7 @@ I love building practical projects, exploring new technologies, and have problem
 ---
 
 ## 📫 Contact Me
-- LinkedIn / Email available on request
+- LinkedIn / kattisrushti10@gmail.com
 
 ---
 
