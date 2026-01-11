@@ -2,37 +2,26 @@
 
 
 ## 🔭 About Me
-I'm a final-year Engineering student passionate about **Java, Python, Data Science, and AI**.  
+I'm a final-year Engineering student passionate about **Software Development**.  
 I love building practical projects, exploring new technologies, and have problem solving skills. 
 
 
 
 ## 💻 Skills
-- **Programming Languages:** Java, Python  
-- **Technologies & Tools:** Git, GitHub, VS Code
-- **Concepts:** Data Structures, Algorithms, Encryption, Machine Learning, Data Science  
-- **Special Interests:** AI, Deep Learning, Data Analysis, Predictive Modeling  
+- **Programming Languages:** Python, Java.
+- **Technologies & Tools:** Git, GitHub, VS Code.
+- **Concepts:** Data Structures, Algorithms, API's 
+- **Special Interests:** AI, Data Analysis, Software Develpment. 
 
 ---
 
 ## 🚀 Projects
 
-### 1. EncryptionToolV1
-- Encrypt & decrypt messages using **Caesar Cipher**
-- Tracks **history** and shows **summaries**
-- Includes **demo mode** for testing
+### 1. AI-Powered Inventory Management System
+- A smart inventory system built with FastAPI and Groq Cloud (Llama 3). This API allows users to manage products and ask an AI assistant questions about the stock using natural language.
 
-### 2. EncryptionToolV2 (Coming Soon)
-- Improved version with additional encryption features
-
-### 3. EncryptionToolV3 (Planned)
-- Advanced version with multiple encryption algorithms
-
-### 4. Texture adventure Game 
-- Game builded using python coding.
-
-### 5. Bank GrapQL API
-- Its the abnd and branch management system.
+### 2. EncryptionToolV1
+- EncryptionToolV1 is a Java console application that encrypts and decrypts messages using a **Caesar Cipher**.
 
 ---
 
@@ -47,5 +36,5 @@ I love building practical projects, exploring new technologies, and have problem
 ---
 
 ## ⚡ Fun Fact
-I enjoy combining **Data science, AI, CLoud ,Cybersecurity** to solve real-world problems and bring ideas to life.
+I enjoy combining **Software Development with AI, Data** to solve real-world problems and bring ideas to life.
 
