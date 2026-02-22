@@ -2,8 +2,7 @@
 
 
 ## 🔭 About Me
-I'm a final-year Engineering student passionate about **Software Development**.  
-I love building practical projects, exploring new technologies, and have problem solving skills. 
+Engineering undergraduate (B.E. – ECE, 2026) with strong foundation in Python and growing expertise in Data Analytics. Experienced in building AI-assisted data systems using FastAPI and REST APIs. Actively learning SQL, Pandas, and Power BI to analyze, manage, and derive insights from structured data. Passionate about solving real-world problems using data-driven approaches and automation.
 
 
 
