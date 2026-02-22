@@ -33,8 +33,5 @@ Engineering undergraduate (B.E. – ECE, 2026) with strong foundation in Python 
 ## 📫 Contact Me
 - LinkedIn / kattisrushti10@gmail.com
 
----
 
-## ⚡ Fun Fact
-I enjoy combining **Software Development with AI, Data** to solve real-world problems and bring ideas to life.
 
