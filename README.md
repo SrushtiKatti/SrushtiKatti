@@ -8,10 +8,11 @@ I love building practical projects, exploring new technologies, and have problem
 
 
 ## 💻 Skills
-- **Programming Languages:** Python, Java.
-- **Technologies & Tools:** Git, GitHub, VS Code.
-- **Concepts:** Data Structures, Algorithms, API's 
-- **Special Interests:** AI, Data Analysis, Software Develpment. 
+- Programming: Python
+- Backend Development: FastAPI, REST APIs
+- Tools & Concepts: Git, HTTP Protocol, JSON
+- Currently Learning: SQL, Power BI, Data Analytics
+- Core Strengths: Problem Solving, Analytical Thinking, Team Collaboration
 
 ---
 
